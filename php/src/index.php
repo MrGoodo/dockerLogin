@@ -1,8 +1,3 @@
-
-<?php
-echo "Hello there, this is a PHP Apache container";
-?>
-
 <?php
 //These are the defined authentication environment in the db service
 
